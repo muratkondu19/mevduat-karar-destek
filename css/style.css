@@ -1,0 +1,20 @@
+nav {
+    height: 70px;
+}
+
+body {
+    background-color: #E3F2FD;
+    font-size: 13px;
+}
+
+.containter_index {
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.containter {
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+}

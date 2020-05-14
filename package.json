@@ -1,0 +1,23 @@
+{
+    "name": "mevduat-karar-destek",
+    "version": "1.0.0",
+    "description": "Bu bir karar destek sistemi projesidir.",
+    "main": "index.php",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/muratkondu19/mevduat-karar-destek.git"
+    },
+    "keywords": [
+        "yatırım",
+        "karar",
+        "destek",
+        "mevduat",
+        "faiz",
+        "tüfe"
+    ],
+    "author": "Murat Kondu",
+    "license": "ISC"
+}
